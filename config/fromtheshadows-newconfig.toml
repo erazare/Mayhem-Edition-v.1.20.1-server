@@ -1,0 +1,25 @@
+
+[Nehemoth]
+	#Range: 1.0 ~ 1.7976931348623157E308
+	"Sets Nehemoth Max Health" = 100.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	"Sets Nehemoth Ranged Damage" = 3.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	"Sets Nehemoth Laser Damage" = 4.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	"Sets Nehemoth Melee Damage" = 8.0
+
+[Froglin]
+	#Range: 1.0 ~ 1.7976931348623157E308
+	"Sets Froglin Max Health" = 35.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	"Sets Froglin Projetile Damage" = 7.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	"Sets Froglin Melee Damage" = 5.0
+
+[Bulldrogioth]
+	#Range: 1.0 ~ 1.7976931348623157E308
+	"Sets Bulldrogioth Max Health" = 110.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	"Sets Bulldrogioth Melee Damage" = 15.0
+

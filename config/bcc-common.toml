@@ -1,0 +1,14 @@
+
+#General settings
+[general]
+	#The CurseForge project ID for the modpack
+	#Range: > 0
+	modpackProjectID = 839071
+	#The name of the modpack
+	modpackName = "Medieval Immersed - Mayhem Edition -"
+	#The version of the modpack
+	modpackVersion = "v.001"
+	#Use the metadata.json to determine the modpack version
+	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
+	useMetadata = false
+
