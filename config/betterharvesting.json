@@ -1,0 +1,13 @@
+{
+  "AllowFastLeafDecay": true,
+  "AllowRightClickHarvest": true,
+  "AllowAutomaticSaplingReplant": true,
+  "AutoPlantSaplingAfterTicks": 5998,
+  "AllowTreeCapitator": true,
+  "TreeCapitatorRequiresTool": true,
+  "AllowVeinMining": true,
+  "VeinMineOnlyWhenSneaking": true,
+  "VeinMineRange": 5,
+  "TreeCapitatorRange": 5,
+  "VeinMinePreventToolBreaking": true
+}
