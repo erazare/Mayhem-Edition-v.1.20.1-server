@@ -1,3 +1,0 @@
-identifier = updater
-title = 
-allowesc = true
