@@ -9,5 +9,5 @@ use_loot_tables = true
 update_habitats = true
 #Number of times a dragon is able to breed.
 #Range: > 0
-breed_limit = 2
+breed_limit = 10
 

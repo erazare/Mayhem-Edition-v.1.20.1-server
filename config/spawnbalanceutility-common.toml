@@ -6,7 +6,7 @@
 	#generateReport
 	generateReport = true
 	#suppressMinecraftMobReporting
-	suppressMinecraftMobReporting = false
+	suppressMinecraftMobReporting = true
 	#fixEmptyNether
 	fixEmptyNether = true
 	#Use the 'BiomeMobWeight.csv' file to balance Biome spawn values
@@ -20,7 +20,7 @@
 
 ["Spawn Placement Fixes"]
 	#Add mobs spawning in the air and falling to this list .
-	defaultSpawnWeightList = "minecraft:piglin_brute;goblinanddungeon:gob;goblinanddungeon:hobgob;"
+	defaultSpawnWeightList = "minecraft:piglin_brute;"
 
 ["Spawn Weight Values"]
 	#minimum Spawn Weight

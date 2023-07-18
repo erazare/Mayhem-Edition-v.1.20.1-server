@@ -1,0 +1,14 @@
+#Enable Pillager Patrol Revamped Mechanic.
+"Revamped Patrol" = true
+#Set the Pillager Patrol Next Tick.
+#Range: 6000 ~ 48000
+"Pillager Patrol Next Tick" = 12000
+#Add Item for What Villager can plant seed and compostable [example: farmersdelight:cabbage_seeds]
+"Villager's Seed Whitelist" = ["farmersdelight:cabbage_seeds"]
+#Add Item for What Villager can plant crop [example: minecraft:carrot]
+"Villager's Plantable Crop Whitelist" = ["farmersdelight:onion"]
+#Add Item for What Villager can eatable about crop(you should set eatable food. when you set non eatable food. villager not eat forever!) [example: minecraft:carrot]
+"Villager's Crop Whitelist" = ["neapolitan:strawberries", "neapolitan:banana", "farmersdelight:cabbage", "farmersdelight:onion", "farmersdelight:tomato"]
+#Add Item for What Villager can eatable about food(you should set eatable food. when you set non eatable food. villager not eat forever!) [example: minecraft:apple]
+"Villager's Food Whitelist" = ["minecraft:cod", "minecraft:salmon", "neapolitan:strawberry_scones", "neapolitan:banana_bread", "neapolitan:dried_banana", "neapolitan:chocolate_strawberries", "farmersdelight:cake_slice", "farmersdelight:apple_pie_slice", "farmersdelight:chocolate_pie_slice", "farmersdelight:sweet_berry_cookie", "farmersdelight:honey_cookie"]
+
