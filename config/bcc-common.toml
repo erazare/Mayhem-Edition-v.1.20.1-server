@@ -7,7 +7,7 @@
 	#The name of the modpack
 	modpackName = "Medieval Immersed - Mayhem Edition -"
 	#The version of the modpack
-	modpackVersion = "v.008"
+	modpackVersion = "v.009"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
