@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Keef_DGAF",
+      "uniqueId": "4d816d10-e02d-488c-8eb7-741b81f7d7e7"
+    },
+    "time": 1690126431978,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Hda8YmXvSG"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Keef_DGAF",
+      "uniqueId": "4d816d10-e02d-488c-8eb7-741b81f7d7e7"
+    },
+    "time": 1690124602450,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/dBpXTYEUEU"
+    }
+  }
+]

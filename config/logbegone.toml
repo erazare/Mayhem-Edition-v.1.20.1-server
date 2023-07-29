@@ -1,5 +1,5 @@
 
 [logbegone]
-	phrases = ["Disconnecting VANILLA connection attempt", "Channels "]
-	regex = ["Disconnecting VANILLA connection attempt", "Channels "]
+	phrases = ["Disconnecting VANILLA connection attempt", "Epoll Play IO Thread ", "Channels "]
+	regex = ["Disconnecting VANILLA connection attempt", "Epoll Play IO Thread ", "Channels "]
 

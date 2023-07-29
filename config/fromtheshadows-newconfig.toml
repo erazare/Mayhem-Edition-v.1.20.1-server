@@ -23,3 +23,11 @@
 	#Range: 1.0 ~ 1.7976931348623157E308
 	"Sets Bulldrogioth Melee Damage" = 15.0
 
+[Cleric]
+	#Range: 1.0 ~ 1.7976931348623157E308
+	"Sets Cleric Max Health" = 25.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	"Sets Cleric Projectile Damage" = 5.0
+	#Range: 1.0 ~ 1.7976931348623157E308
+	"Sets Cleric Melee Damage" = 1.0
+

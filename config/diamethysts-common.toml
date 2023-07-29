@@ -1483,3 +1483,54 @@
 		#Range: 1 ~ 50
 		diamethystNetheriteToolEnchantability = 30
 
+#Diamethyst Shields
+[diamethyst_shields]
+
+	#Diamethyst Golden Shield
+	[diamethyst_shields.diamethyst_golden_shield]
+		#Durability [default: 500]
+		#Range: 1 ~ 3000
+		diamethystGoldShieldDurability = 500
+
+	#Diamethyst Copper Shield
+	[diamethyst_shields.diamethyst_copper_shield]
+		#Durability [default: 550]
+		#Range: 1 ~ 3000
+		diamethystCopperShieldDurability = 550
+
+	#Diamethyst Iron Shield
+	[diamethyst_shields.diamethyst_iron_shield]
+		#Durability [default: 600]
+		#Range: 1 ~ 3000
+		diamethystIronShieldDurability = 600
+
+	#Diamethyst Lapis Shield
+	[diamethyst_shields.diamethyst_lapis_shield]
+		#Durability [default: 650]
+		#Range: 1 ~ 3000
+		diamethystLapisShieldDurability = 650
+
+	#Diamethyst Prismarine Shield
+	[diamethyst_shields.diamethyst_prismarine_shield]
+		#Durability [default: 700]
+		#Range: 1 ~ 3000
+		diamethystPrismarineShieldDurability = 700
+
+	#Diamethyst Emerald Shield
+	[diamethyst_shields.diamethyst_emerald_shield]
+		#Durability [default: 750]
+		#Range: 1 ~ 3000
+		diamethystEmeraldShieldDurability = 750
+
+	#Diamethyst Diamond Shield
+	[diamethyst_shields.diamethyst_diamond_shield]
+		#Durability [default: 850]
+		#Range: 1 ~ 3000
+		diamethystDiamondShieldDurability = 850
+
+	#Diamethyst Netherite Shield
+	[diamethyst_shields.diamethyst_netherite_shield]
+		#Durability [default: 1000]
+		#Range: 1 ~ 3000
+		diamethystNetheriteShieldDurability = 1000
+

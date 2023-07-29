@@ -1,7 +1,8 @@
 
 [advanced_infuser]
 	#Can the enchanting infuser repair items using levels in addition to enchanting.
-	allow_repairing = true
+	#Allowed Values: EVERYTHING, TOOLS_AND_ARMOR, NOTHING
+	allow_repairing = "TOOLS_AND_ARMOR"
 	#How many bookshelves you need around the infuser to be able to apply maximum level enchantments.
 	#Filling in corners is important to reach higher values.
 	#Setting very high values may require modded bookshelves that provide more than one enchanting power per block (such as Apotheosis' bookshelves).
@@ -97,7 +98,8 @@
 
 [normal_infuser]
 	#Can the enchanting infuser repair items using levels in addition to enchanting.
-	allow_repairing = false
+	#Allowed Values: EVERYTHING, TOOLS_AND_ARMOR, NOTHING
+	allow_repairing = "NOTHING"
 	#How many bookshelves you need around the infuser to be able to apply maximum level enchantments.
 	#Filling in corners is important to reach higher values.
 	#Setting very high values may require modded bookshelves that provide more than one enchanting power per block (such as Apotheosis' bookshelves).
